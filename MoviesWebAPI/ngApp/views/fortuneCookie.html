@@ -1,0 +1,23 @@
+﻿<div class="row" style="margin: 15px">
+    <div class="col-md-12">
+        <div class="col-md-6">
+            <h2>Get a Fortune!</h2>
+        </div>
+        <div class="col-md-3">
+            <a href="#/">Search by Name</a>
+        </div>
+        <div class="col-md-3">
+            <a href="#/movieGenre">Sort by Genre!</a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6" style="margin-bottom: 10px">
+        <strong>Confuscious says:</strong> {{cookieController.fortune}}
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-6">
+        <input type="button" value="Get a new fortune" ng-click="cookieController.roll()" />
+    </div>
+</div>
