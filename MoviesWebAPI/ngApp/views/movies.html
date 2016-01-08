@@ -1,0 +1,20 @@
+﻿<div class="row" style="margin: 15px">
+    <div class="col-md-6 col-md-6">
+        <h2>Sort by Movie Genre</h2>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-offset-1">
+        <select ng-model="movieList.selectedGenre"
+                ng-options="genre.name for genre in movieList.genres"
+                ng-change="movieList.getMovies()">
+        </select>
+    </div>
+</div>
+<div class="row">
+    <ol>
+        <li ng-repeat="match in movieList.genreMatches" style="padding:10px; margin: 10px">
+            {{match.title}} | <a href="{{match.imdbLink}}">IMDB</a>
+        </li>
+    </ol>
+</div>

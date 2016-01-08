@@ -1,0 +1,242 @@
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll.config
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.pdb
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\WebGrease.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.Migrations.initial.resources
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\Unit 02 - AngularJS\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.pdb
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.Migrations.initial.resources
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.dll
+\\Mac\Home\Documents\Code\CoderCamps\FullStackNET\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.pdb
+C:\projects\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csprojResolveAssemblyReference.cache
+C:\projects\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.Migrations.initial.resources
+C:\projects\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csproj.GenerateResource.Cache
+C:\projects\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.pdb
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\csc.exe
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\vbc.exe
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll.config
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.pdb
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Owin.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\WebGrease.dll
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.pdb
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\projects\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\csc.exe
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\vbc.exe
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll.config
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\MoviesWebAPI.pdb
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Web.Infrastructure.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\WebGrease.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Newtonsoft.Json.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Net.Http.Formatting.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Helpers.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.WebHost.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Mvc.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Optimization.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Razor.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Deployment.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.WebPages.Razor.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Antlr3.Runtime.pdb
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Facebook.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Cookies.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.OAuth.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Google.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.Twitter.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\bin\System.Web.Http.Owin.xml
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.Migrations.initial.resources
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.dll
+\\Mac\Home\Documents\Code\CoderCamps\MoviesWebAPI\MoviesWebAPI\obj\Debug\MoviesWebAPI.pdb
