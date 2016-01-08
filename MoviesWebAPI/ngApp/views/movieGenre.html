@@ -1,11 +1,16 @@
 ﻿<div class="row" style="margin: 15px">
     <div class="col-md-6 col-md-6">
-        <h2>Sort by Movie Genre</h2>
+        <div class="col-md-9">
+            <h2>Sort by Movie Genre</h2>
+        </div>
+        <div class="col-md-3">
+            <a href="#/">Search by Name</a>
+        </div>
     </div>
 </div>
 <div class="row">
     <div class="col-md-offset-1">
-        <select ng-model="movieList.selectedGenre"
+        Sort: <select ng-model="movieList.selectedGenre"
                 ng-options="genre.name for genre in movieList.genres"
                 ng-change="movieList.getMovies()">
         </select>

@@ -1,0 +1,22 @@
+﻿<div class="row" style="margin: 15px">
+    <div class="col-md-6 col-md-6">
+        <div class="col-md-9">
+            <h2>Search by Movie Name</h2>
+        </div>
+        <div class="col-md-3">
+            <a href="#/movieGenre">Sort by Genre</a>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-offset-1">
+       Search: <input type="text" placeholder="Input movie name" ng-model="movieName"/>
+    </div>
+</div>
+<div class="row">
+    <ol>
+        <li ng-repeat="movie in movieList.movies | filter: movieName" style="padding:10px; margin: 10px" ng-model-options="{debounce:250}">
+            {{movie.title}} | <a href="{{movie.imdbLink}}">IMDB</a>
+        </li>
+    </ol>
+</div>

@@ -1,24 +1,16 @@
 ﻿namespace MoviesWebAPI.Controllers {
-    export class MoviesController {
-        public movies;
+    export class genreController {
         public genres;
         public genreMatches;
         public selectedGenre;
         constructor(private $http) {
-            this.$http.get('/api/movies')
-                .then((response) => {
-                    console.log(response);
-                    this.movies = response.data;
-                    //console.log(`Movies Data: ${this.movies}`);
-                })
-                .catch((response) => {
-                    console.log(`OH NOES: ${response.status}`);
-                });
             this.$http.get('/api/genres')
                 .then((response) => {
                     //console.log(response);
                     this.genres = response.data;
-                    //console.log(`Genres Data: ${this.genres}`)
+                })
+                .catch((response) => {
+                    console.log(`OH NOES: ${response.status}`);
                 });
         }
         getMovies(): void {

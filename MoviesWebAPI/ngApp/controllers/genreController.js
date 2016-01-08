@@ -6,20 +6,13 @@ var MoviesWebAPI;
             function genreController($http) {
                 var _this = this;
                 this.$http = $http;
-                this.$http.get('/api/movies')
-                    .then(function (response) {
-                    console.log(response);
-                    _this.movies = response.data;
-                    //console.log(`Movies Data: ${this.movies}`);
-                })
-                    .catch(function (response) {
-                    console.log("OH NOES: " + response.status);
-                });
                 this.$http.get('/api/genres')
                     .then(function (response) {
                     //console.log(response);
                     _this.genres = response.data;
-                    //console.log(`Genres Data: ${this.genres}`)
+                })
+                    .catch(function (response) {
+                    console.log("OH NOES: " + response.status);
                 });
             }
             genreController.prototype.getMovies = function () {

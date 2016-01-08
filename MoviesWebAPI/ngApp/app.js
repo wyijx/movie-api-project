@@ -4,10 +4,15 @@ var MoviesWebAPI;
         .config(function ($routeProvider) {
         $routeProvider
             .when('/', {
-            templateUrl: '/ngApp/views/movies.html',
-            controller: MoviesWebAPI.Controllers.MoviesController,
+            templateUrl: '/ngApp/views/movieNames.html',
+            controller: MoviesWebAPI.Controllers.nameController,
+            controllerAs: 'movieList'
+        })
+            .when('/movieGenre', {
+            templateUrl: '/ngApp/views/movieGenre.html',
+            controller: MoviesWebAPI.Controllers.genreController,
             controllerAs: 'movieList'
         });
     });
+    angular.module('MoviesWebAPI').constant;
 })(MoviesWebAPI || (MoviesWebAPI = {}));
-//# sourceMappingURL=app.js.map
